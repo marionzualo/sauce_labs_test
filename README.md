@@ -1,5 +1,6 @@
 What matters:
-Use `bundle exec rake sauce:features` to run the tests.
+Use `bundle exec rake sauce:features` to run the tests. You'll also have to run a local server prior to doing that through `rails s`.
+
 `features/support/sauce_helper.rb` has the configuration information.
 Take a look at the Gemfile for the relevant sauce related gems that are needed.
 
