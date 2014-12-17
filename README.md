@@ -10,3 +10,5 @@ Useful articles:
 + https://github.com/verdi327/parallel_test_tutorial
 
 Make sure you have the right version of cucumber: https://github.com/saucelabs/sauce_ruby/issues/125.
+
+You also need to configure sauce labs login information on your machine(https://docs.saucelabs.com/tutorials/ruby/#setting-up-the-sauce-gem)
